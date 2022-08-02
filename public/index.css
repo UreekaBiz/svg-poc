@@ -1,0 +1,16 @@
+/* ***************************************************************************** */
+/* == Selection ================================================================ */
+.cursorAuto { cursor: auto; }
+.cursorCrosshair { cursor: crosshair; }
+.cursorMove { cursor: all-scroll; }
+.cursorGrab { cursor: grab; }
+
+.visible { visibility: visible; }
+.topLeft { cursor: nw-resize; }
+.topMiddle { cursor: n-resize; }
+.topRight { cursor: ne-resize; }
+.middleRight { cursor: e-resize; }
+.bottomRight { cursor: se-resize; }
+.bottomMiddle { cursor: s-resize; }
+.bottomLeft { cursor: sw-resize; }
+.middleLeft { cursor: w-resize; }
