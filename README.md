@@ -4,12 +4,12 @@
 
 Ensure the correct version of NodeJS (and corresponding NPM version)
 
-```
+```bash
 nvm install --latest-npm
 ```
 
 Set up dependencies
-```
+```bash
 npm install
 ```
 
@@ -22,6 +22,6 @@ Defaults to `localhost:8080`
 
 ### Clean
 
-```
+```bash
 rm -rf node_modules
 ```
